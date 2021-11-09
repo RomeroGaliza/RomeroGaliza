@@ -13,7 +13,6 @@
 <br />
 
 <div align="center"></div>
-<p align="center">From network engineering all the way to serverless workloads, I am passionate engineer eager to help defining the next industry technology standard.</p>
 <p align="center">This account is associated with INGKA Group Digital.</p>
 <hr /> 
 
