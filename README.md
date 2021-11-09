@@ -59,6 +59,3 @@
 * [Static Container Scanning with Clair and Klar (or Trivy)](https://blog.devopsie.com/2019-10-29/clair-container-analysis.html)
 </div>
 </details>
-
-
-<div align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=romero.galiza.ikea" /></div>
