@@ -47,6 +47,7 @@
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ceph](https://img.shields.io/badge/Ceph-%23000000.svg?style=for-the-badge&logo=Ceph&logoColor=%23EF5C55)
 
 </div>
 </details>
