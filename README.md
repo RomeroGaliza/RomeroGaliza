@@ -39,13 +39,3 @@
 ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=Helm&logoColor=white)
 </div>
 </details>
-
-
-<details open><summary><span>Latest Blog Posts</span></summary>
-<br />
-<div>
-
-* [Infrastructure as code with Terraform CDK](https://blog.devopsie.com/2021-10-18/terraform-cdk.html)
-* [Static Container Scanning with Clair and Klar (or Trivy)](https://blog.devopsie.com/2019-10-29/clair-container-analysis.html)
-</div>
-</details>
