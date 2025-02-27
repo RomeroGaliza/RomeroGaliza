@@ -1,15 +1,6 @@
 <!-- Header  -->
 <h1 align="center">Romero Galiza</h1>
 
-<!-- Contact Icons  -->
-<div align="center">
-  <a align="center" href="https://www.linkedin.com/in/romerojr/">
-    <img align="center" alt="LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" >
-  </a>
-  <a href="https://blog.devopsie.com">
-  <img align="center" src="https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=" /></a>
-</div>
-
 <br />
 
 <div align="center"></div>
